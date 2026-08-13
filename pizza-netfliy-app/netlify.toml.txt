@@ -1,3 +1,0 @@
-[build]
-  publish = "pizza-netlify-app"
-  functions = "pizza-netlify-app/netlify/functions"
