@@ -1,4 +1,3 @@
 [build]
-  base = "pizza-netlify-app"
-  publish = "."
-  functions = "netlify/functions"
+  publish = "pizza-netfliy-app"
+  functions = "pizza-netfliy-app/netlify/functions"
